@@ -21,7 +21,7 @@ struct RecipeList: View {
             
                 Spacer()
             }
-        
+                //Recipe cards size
             LazyVGrid(columns: [GridItem(.adaptive(minimum: 160), spacing: 15)], spacing: 15) {
                 ForEach(recipes) { recipe in
                     NavigationLink(destination: RecipeView(recipe: recipe)) {

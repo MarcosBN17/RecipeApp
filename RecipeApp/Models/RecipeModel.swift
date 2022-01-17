@@ -8,6 +8,7 @@
 import Foundation
 import SwiftUI
 
+//Recipes page structure
 struct Recipe: Identifiable {
     let id = UUID()
     let name: String

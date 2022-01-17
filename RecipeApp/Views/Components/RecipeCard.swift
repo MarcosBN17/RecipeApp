@@ -9,7 +9,7 @@ import SwiftUI
 
 struct RecipeCard: View {
     var recipe: Recipe
-    
+    //Configuration of Main page recipe cards
     var body: some View {
         VStack {
             AsyncImage(url: URL(string: recipe.image)) { image in image

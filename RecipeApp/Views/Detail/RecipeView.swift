@@ -11,7 +11,7 @@ struct RecipeView: View {
     var recipe: Recipe
     
     var body: some View {
-        //Image Settings
+        //Recipe image settings
         ScrollView {
             AsyncImage(url: URL(string: recipe.image)) { image in image
                     .resizable()
@@ -28,7 +28,7 @@ struct RecipeView: View {
             .frame(width: 420)
             .background(LinearGradient(gradient: Gradient(colors: [Color(.gray).opacity(0.3), Color(.gray)]), startPoint: .top, endPoint: .bottom))
             
-            //Recipe name
+            //Recipe information from recipemodel
             VStack(spacing: 30) {
                 Text(recipe.name)
                     .font(.largeTitle)
