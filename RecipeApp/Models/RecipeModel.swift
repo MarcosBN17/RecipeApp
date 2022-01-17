@@ -64,5 +64,25 @@ extension Recipe {
             directions: "Step 1\n\n Prepare the caramel by placing the indicated ingredients in a pan. Bring to a boil and let it boil until you get a caramel.\n\n Step 2\n\n Prepare the pudding: in a bowl, pour the condensed milk, milk and eggs and beat very well. Add the grated coconut and mix.\n\n Step 3\n\n Prepare the cake: beat the egg with the sugar until stiff. Add the yolks and beat for a few more minutes. Add the flour and mix, then add coconut milk and grated coconut and mix.\n\n Step 4\n\n Place the dough over the pudding. Take it to oven, at 180ºC, for about 50 minutes.",
             category: "Sweets and Desserts"
         ),
+        Recipe(
+            name: "Meat Pie with Rice",
+            image:"https://www.teleculinaria.pt/wp-content/uploads/2022/01/Empadao-de-arroz-no-forno-CHFB-7-696x465.jpg",
+            description: "A traditional dish of Portuguese cuisine and also popular in Brazil, it is a preparation made in oven, it is customary to use chorizo and mozzarella cheese",
+            timeprep: "1 Hour and 10 minutes",
+            difficulty: "Easy",
+            ingredients: "500 g of cooked beef\n300 g of rice\n200 g of tomato\n1 leek\n1 onion\n2 garlic cloves\n1 chorizo\n2 eggs\n100 g mozzarella cheese\n30 g butter\n100 ml White Wine\n1 bay leaf",
+            directions: "Step 1\n\n Bring a pan with plenty of water, salt, bay leaf and saffron to the boil. Add the rice, stir and let it cook.\n\n Step 2\n\n Place the peeled garlic, the leeks, cut into pieces, and half the chorizo in a food processor.\n\n Step 3\n\n Heat the same pan with butter, chopped onion and previus mixture. Add the tomato and, 5 minutes later, the meat.\n\n Step 4\n\n Add a baking dish with butter and add half of the cooked rice. Arrange the previous preparation on top and cover with the remaining rice. Beat the eggs, spread them over the rice and sprinkle with grated cheese.",
+            category: "Meat"
+        ),
+        Recipe(
+            name: "Octopus with Mashed Potatoes",
+            image:"https://www.teleculinaria.pt/wp-content/uploads/2020/12/Polvo-a-lagareiro-com-batatas-a-murro-CHEC-696x465.jpg",
+            description: "A typical Portuguese dish based on octopus, olive oil, potatoes and garlic,it is often served on Christmas Eve.",
+            timeprep: "1 Hour",
+            difficulty: "Easy",
+            ingredients: "1,5 kg of Octopus\n1 kg of potatoes\n1 onion\n3 garlic cloves\n150 ml olive oil\n80 ml of water\n1 bay leave\nParsley and Salt",
+            directions: "Step 1\n\n In a pan, place the octopus, water, a little oil, the onion, peeled and cut into quarters, and the bay leaf. Bring to a boil and cook until it gets soft (about 45 minutes).\n\n Step 2\n\n Wash the potatoes and arrange them on a tray, drizzled with a little oil and sprinkled with salt. Bake in the oven, at 180º, for about 30 minutes.\n\n Step 3\n\n Then drain the octopus and place it on a tray. Arrange the potatoes around them, drizzle with the oil, add the peeled and chopped garlic and bake in the oven until it gets golden.",
+            category: "Fish"
+        ),
     ]
 }

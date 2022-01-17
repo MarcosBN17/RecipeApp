@@ -18,7 +18,7 @@ struct HomeView: View {
                     .resizable()
                     .scaledToFit()
                     .frame(width: 60, height: 60, alignment: .top)
-                    .offset(x: 0, y: -610)
+                    .offset(x: 0, y: -840)
                 
             }
             .navigationTitle("Recipes")
