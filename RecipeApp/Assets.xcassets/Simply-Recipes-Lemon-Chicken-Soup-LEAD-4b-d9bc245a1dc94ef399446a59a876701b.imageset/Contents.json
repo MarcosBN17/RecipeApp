@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Simply-Recipes-Lemon-Chicken-Soup-LEAD-4b-d9bc245a1dc94ef399446a59a876701b.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
